@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🌱 Je suis actuelement en BTS SIO
-📫 OÙ me contacter: remichristophe3@gmail.com 
-  Python
+  🌱 Je suis actuelement en BTS SIO
+- 📫 OÙ me contacter: remichristophe3@gmail.com 
+-  Python
 
 <!--
 **Remi61/Remi61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
