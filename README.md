@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-  🌱 Je suis actuelement en BTS SIO
+  🌱 I am currently in 1st year of BTS SIO at Caensup St Ursule.
+
+I passed my bac pro Digital Systems with high honours at Condé-en-Normandie.
+
+
 - 📫 OÙ me contacter: remichristophe3@gmail.com 
 -  Python
 
