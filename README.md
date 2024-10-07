@@ -1,12 +1,19 @@
 ## Hi there 👋
 
-  🌱 I am currently in 1st year of BTS SIO at Caensup St Ursule.
+ Currently in BTS SIO at CaenSup Sainte-Ursule 🖥️
+
+Beginner in programming 
+-   HTML
+-   CSS
+-   Pythgon
+
+You can contact me there : remichristophe@gmail.com 📫
 
 I passed my bac pro Digital Systems with high honours at Condé-en-Normandie.
 
 
-- 📫 OÙ me contacter: remichristophe3@gmail.com 
--  Python
+
+
 
 <!--
 **Remi61/Remi61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
