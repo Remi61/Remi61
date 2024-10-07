@@ -5,9 +5,9 @@
 Beginner in programming 
 -   HTML
 -   CSS
--   Pythgon
+-   Python
 
-You can contact me there : remichristophe@gmail.com 📫
+You can contact me there : remichristophe3@gmail.com 📫
 
 I passed my bac pro Digital Systems with high honours at Condé-en-Normandie.
 
